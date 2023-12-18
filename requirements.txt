@@ -1,0 +1,15 @@
+huggingface_hub
+numpy
+tensorflow
+torch
+streamlit
+langchain
+openai==0.28.0
+pdf2text
+transformers
+faiss-cpu
+PyPDF2
+PyMuPDF
+textract
+tiktoken 
+
