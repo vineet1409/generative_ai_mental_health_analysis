@@ -23,7 +23,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import huggingface_hub
-huggingface_hub.login(token="hugging_face_token_id")
+huggingface_hub.login(token="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")
 
 image = Image.open('logo-lg-red.png')
 st.image(image, caption=None, width=150, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
